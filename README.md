@@ -71,3 +71,4 @@ assets/
   content. It renders as pure decoration.
 - No analytics, no cookies, no forms. Nothing about a visitor is collected, so no cookie
   banner or privacy policy is required as-is.
+# Mysite
