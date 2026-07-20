@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="noindex, follow" />
+  <title>Page not found · Soham Jariwala</title>
+  <meta name="theme-color" content="#07090D" />
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300..600&family=Hanken+Grotesk:wght@400;500;600&display=swap" />
+  <style>
+    :root { --bg:#07090D; --text:#EAF0F7; --muted:#8A97A6; --accent:#AEC4E0; --on-accent:#0A0D12; --hairline:rgba(174,196,224,0.16); }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body { height: 100%; }
+    body {
+      background: var(--bg); color: var(--text);
+      font-family: "Hanken Grotesk", system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+      display: grid; place-items: center; text-align: center; padding: 32px;
+      min-height: 100svh; -webkit-font-smoothing: antialiased;
+    }
+    .wrap { max-width: 560px; }
+    .code { font-size: 12px; font-weight: 600; letter-spacing: 0.22em; text-transform: uppercase; color: var(--accent); }
+    h1 {
+      font-family: "Fraunces", Georgia, serif; font-weight: 400;
+      font-size: clamp(40px, 9vw, 88px); line-height: 1.02; margin: 16px 0 14px;
+    }
+    p { color: var(--muted); font-size: clamp(15px, 2.4vw, 18px); line-height: 1.6; margin-bottom: 30px; }
+    a.home {
+      display: inline-flex; align-items: center; gap: 8px;
+      background: var(--accent); color: var(--on-accent);
+      font-weight: 600; font-size: 13px; letter-spacing: 0.1em; text-transform: uppercase;
+      text-decoration: none; padding: 14px 24px; border-radius: 999px;
+      transition: transform 0.2s ease, background 0.2s ease;
+    }
+    a.home:hover { transform: translateY(-1px); background: #c3d5ec; }
+    a.text { display: inline-block; margin-top: 20px; color: var(--muted); font-size: 13px; letter-spacing: 0.04em; text-decoration: none; border-bottom: 1px solid var(--hairline); padding-bottom: 2px; }
+    a.text:hover { color: var(--text); }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <p class="code">Error 404</p>
+    <h1>Page not found.</h1>
+    <p>That link does not lead anywhere. The page may have moved, or it never existed. Everything about Soham Jariwala lives on the home page.</p>
+    <a class="home" href="/">Back to home <span aria-hidden="true">&rarr;</span></a>
+    <div><a class="text" href="mailto:soj5@cornell.edu">Or email soj5@cornell.edu</a></div>
+  </main>
+</body>
+</html>
