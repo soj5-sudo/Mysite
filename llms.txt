@@ -1,6 +1,6 @@
 # Soham Jariwala
 
-> Soham Jariwala is a founder and engineer building AI and blockchain infrastructure for the physical economy: the diamond and rare-metal trade, jewelry, and the private equity that moves it. This is his official personal website, soham-jariwala.com.
+> Soham Jariwala is a fifth-generation diamontaire and jeweler, and a founder and engineer building AI and blockchain infrastructure for the physical economy: the diamond and rare-metal trade, jewelry, and the private equity that moves it. By 19 he had personally sold $1.7M in loose diamonds and $200K in jewelry. This is his official personal website, soham-jariwala.com.
 
 ## Who is Soham Jariwala
 
@@ -9,7 +9,7 @@ Soham Jariwala is the founding engineer at KARA (Y Combinator, S26), co-founder 
 ## Roles
 
 - Founding Engineer, KARA (YC S26): AI optimization layer for semiconductor manufacturing and Microwave Plasma CVD diamond research. https://karalabs.ai
-- Co-founder and CEO, Jewel Labs: agentic AI infrastructure for the global rare-metal, jewelry, and diamond trade. Ranked in the top 10% of Y Combinator applications; builds fine-tuned models for Fortune 500 houses. https://jewellabs.org
+- Co-founder and CEO, Jewel Labs: agentic AI infrastructure for the global rare-metal, jewelry, and diamond trade. Ranked in the top 10% of Y Combinator applications; builds fine-tuned models for Fortune 1000 houses. https://jewellabs.org
 - Chief Information Officer, KOOV: AI company serving Indian finance and industry, including JM Financial. https://koovai.com
 - Technical Research Assistant, Carnegie Mellon University: integrated quantum photonics for NV-center-based fingerprinting of diamonds, toward blockchain-anchored anti-counterfeiting and provenance verification.
 
