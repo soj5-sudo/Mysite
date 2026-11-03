@@ -4,12 +4,12 @@
 
 ## Who is Soham Jariwala
 
-Soham Jariwala is the founding engineer at KARA (Y Combinator, S26), co-founder and CEO of Jewel Labs, and CIO at KOOV. He studies computer science at Cornell University and researches integrated quantum photonics for NV-center-based diamond fingerprinting at Carnegie Mellon University.
+Soham Jariwala is the incoming MLE at KARA (YC's first diamond startup), co-founder and CEO of Jewel Labs, and CIO at KOOV. He studies computer science at Cornell University and researches integrated quantum photonics for NV-center-based diamond fingerprinting at Carnegie Mellon University.
 
 ## Roles
 
-- Founding Engineer, KARA (YC S26): AI optimization layer for semiconductor manufacturing and Microwave Plasma CVD diamond research. https://karalabs.ai
-- Co-founder and CEO, Jewel Labs: agentic AI infrastructure for the global rare-metal, jewelry, and diamond trade. Ranked in the top 10% of Y Combinator applications; builds fine-tuned models for Fortune 1000 houses. https://jewellabs.org
+- Incoming MLE, KARA (YC's first diamond startup): AI optimization layer for semiconductor manufacturing and Microwave Plasma CVD diamond research. https://karalabs.ai
+- Co-founder and CEO, Jewel Labs: agentic AI infrastructure for the global rare-metal, jewelry, and diamond trade. Launched with over 100 letters of intent and a 350+ waitlist; builds fine-tuned models for Fortune 1000 houses. https://jewellabs.org
 - Chief Information Officer, KOOV: AI company serving Indian finance and industry, including JM Financial. https://koovai.com
 - Technical Research Assistant, Carnegie Mellon University: integrated quantum photonics for NV-center-based fingerprinting of diamonds, toward blockchain-anchored anti-counterfeiting and provenance verification.
 
@@ -19,7 +19,7 @@ Soham Jariwala is the founding engineer at KARA (Y Combinator, S26), co-founder 
 
 ## Recognition
 
-- Y Combinator (S26) founding engineer.
+- KARA, YC's first diamond startup (incoming machine learning engineer).
 - Forbes 30 Under 30, awarded to 504 Found, the nonprofit where Soham served as CXO.
 - Published IEEE preprint research on CNN-based crop health monitoring (2,000+ views).
 
